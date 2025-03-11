@@ -21,7 +21,7 @@ The model will be trained using a dataset from Kaggle that consists of text desc
 ## Data Training
 1. Develop a deep learning model using **LSTM** (Long Short-Term Memory) to classify products into the specified categories.
 2. Achieve an accuracy of more than **85%** and an **F1 score of more than 0.7**.
-3. Use the **TensorFlow** library for developing and training the model.
+3. Use the **TensorFlow** library for developing and training the deep learning model.
 4. Visualize the training process using **TensorBoard**.
 
 ## Model Architecture
