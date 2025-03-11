@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/9f14832794ad4c3ab1105b64645c733f/artifacts
+end_time: 1741659539756
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: 9f14832794ad4c3ab1105b64645c733f
+run_name: dapper-frog-705
+run_uuid: 9f14832794ad4c3ab1105b64645c733f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741659538453
+status: 4
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/cc360e2fa7d848f2844b4b8bc373cc74/artifacts
+end_time: 1741675533355
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: cc360e2fa7d848f2844b4b8bc373cc74
+run_name: big-deer-202
+run_uuid: cc360e2fa7d848f2844b4b8bc373cc74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741675348803
+status: 3
+tags: []
+user_id: suhaimi

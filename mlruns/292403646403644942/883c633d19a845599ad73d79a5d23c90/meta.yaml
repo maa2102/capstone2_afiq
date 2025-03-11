@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/883c633d19a845599ad73d79a5d23c90/artifacts
+end_time: 1741658715921
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: 883c633d19a845599ad73d79a5d23c90
+run_name: angry-whale-101
+run_uuid: 883c633d19a845599ad73d79a5d23c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741658003797
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/c315838e90fd489681c2a872929ae14e/artifacts
+end_time: 1741669713487
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: c315838e90fd489681c2a872929ae14e
+run_name: resilient-shrew-541
+run_uuid: c315838e90fd489681c2a872929ae14e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741669002720
+status: 3
+tags: []
+user_id: suhaimi

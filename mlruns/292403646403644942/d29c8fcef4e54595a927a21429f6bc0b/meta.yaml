@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/d29c8fcef4e54595a927a21429f6bc0b/artifacts
+end_time: 1741664666975
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: d29c8fcef4e54595a927a21429f6bc0b
+run_name: resilient-elk-223
+run_uuid: d29c8fcef4e54595a927a21429f6bc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741663489251
+status: 3
+tags: []
+user_id: suhaimi

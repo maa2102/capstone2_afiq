@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/572bb1c3e0604a769344ca736385dec2/artifacts
+end_time: 1741676533643
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: 572bb1c3e0604a769344ca736385dec2
+run_name: secretive-mouse-674
+run_uuid: 572bb1c3e0604a769344ca736385dec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741675869541
+status: 3
+tags: []
+user_id: suhaimi

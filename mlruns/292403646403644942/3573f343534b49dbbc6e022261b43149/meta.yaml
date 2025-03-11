@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/3573f343534b49dbbc6e022261b43149/artifacts
+end_time: 1741677505379
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: 3573f343534b49dbbc6e022261b43149
+run_name: indecisive-ant-945
+run_uuid: 3573f343534b49dbbc6e022261b43149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741677164420
+status: 3
+tags: []
+user_id: suhaimi

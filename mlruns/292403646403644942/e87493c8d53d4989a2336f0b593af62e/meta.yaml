@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/e87493c8d53d4989a2336f0b593af62e/artifacts
+end_time: 1741672702089
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: e87493c8d53d4989a2336f0b593af62e
+run_name: rebellious-mole-281
+run_uuid: e87493c8d53d4989a2336f0b593af62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741672046987
+status: 3
+tags: []
+user_id: suhaimi

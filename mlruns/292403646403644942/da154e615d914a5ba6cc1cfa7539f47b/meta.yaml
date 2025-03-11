@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/da154e615d914a5ba6cc1cfa7539f47b/artifacts
+end_time: 1741667101979
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: da154e615d914a5ba6cc1cfa7539f47b
+run_name: bald-sow-84
+run_uuid: da154e615d914a5ba6cc1cfa7539f47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741665070179
+status: 3
+tags: []
+user_id: suhaimi

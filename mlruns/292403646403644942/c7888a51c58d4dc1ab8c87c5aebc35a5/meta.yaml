@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/c7888a51c58d4dc1ab8c87c5aebc35a5/artifacts
+end_time: 1741674131801
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: c7888a51c58d4dc1ab8c87c5aebc35a5
+run_name: unique-mink-700
+run_uuid: c7888a51c58d4dc1ab8c87c5aebc35a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741673445226
+status: 3
+tags: []
+user_id: suhaimi

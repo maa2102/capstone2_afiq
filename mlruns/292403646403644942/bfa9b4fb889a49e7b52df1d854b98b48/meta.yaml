@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/bfa9b4fb889a49e7b52df1d854b98b48/artifacts
+end_time: 1741659164370
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: bfa9b4fb889a49e7b52df1d854b98b48
+run_name: chill-gnat-646
+run_uuid: bfa9b4fb889a49e7b52df1d854b98b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741659030334
+status: 4
+tags: []
+user_id: suhaimi

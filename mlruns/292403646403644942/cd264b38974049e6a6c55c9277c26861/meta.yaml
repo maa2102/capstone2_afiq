@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/YPAI11/Capstone/capstone2_afiq/mlruns/292403646403644942/cd264b38974049e6a6c55c9277c26861/artifacts
+end_time: 1741671952214
+entry_point_name: ''
+experiment_id: '292403646403644942'
+lifecycle_stage: active
+run_id: cd264b38974049e6a6c55c9277c26861
+run_name: fearless-cub-884
+run_uuid: cd264b38974049e6a6c55c9277c26861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741671269265
+status: 3
+tags: []
+user_id: suhaimi
