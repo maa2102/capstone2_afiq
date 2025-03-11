@@ -25,7 +25,7 @@ The model will be trained using a dataset from Kaggle that consists of text desc
 4. Visualize the training process using **TensorBoard**.
 
 ## Model Architecture
-![alt text](img/model _architecture.png)
+![alt text](img/model_architecture.png)
 
 ## Data performance
 1. The model's performance is evaluated using accuracy and F1 score metrics. The best-performing model is saved and used for predictions on the test dataset.
